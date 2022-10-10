@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #161616;
+  color: #faf9f9;
+}
+.neon {
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(64, 224, 208, 0.5);
+  box-shadow: 0px 0px 20px 0px rgba(64, 224, 208, 0.5);
+}
+.whiteShadow {
+  text-shadow: 0px 4px 30px rgba(255, 255, 255, 0.6);
+}
+
+h1 {
+  @apply text-[50px] font-bold;
+}
+h2 {
+  @apply text-[38px] font-medium;
+}
+h3 {
+  @apply text-[28px] font-bold;
+}
+h4 {
+  @apply text-[21px] font-normal leading-8;
+}
+p {
+  @apply text-base;
+}
+small {
+  @apply text-xs;
+}
+
+/* Custom CSS */
+.card .value {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+.card:hover .value {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 425px) {
+  .card .value {
+    opacity: 1;
+  }
+  .swiper-slide-active {
+    transform: scale(1) !important;
+    -webkit-transform: scale(1) !important;
+    -moz-transform: scale(1) !important;
+    -ms-transform: scale(1) !important;
+    -o-transform: scale(1) !important;
+  }
+}
+
+/* Swiper Slider in Collection section Homepage */
+.swiper-slide-active {
+  transform: scale(1.4);
+  transition: all 0.5s ease-in-out;
+}
+.swiper-slide-active .nftValue {
+  opacity: 1;
+}
+.nftValue {
+  opacity: 0;
+  /* transition: opacity 0.5s ease-in-out; */
+}
+
+.heroSlider .swiper-slide-active {
+  transform: scale(1) !important;
+  -webkit-transform: scale(1) !important;
+  -moz-transform: scale(1) !important;
+  -ms-transform: scale(1) !important;
+  -o-transform: scale(1) !important;
+}
+
+/* Swiper Arrow */
+.swiper-button-prev {
+  color: #40e0d0 !important;
+}
+.swiper-button-next {
+  color: #40e0d0 !important;
+}
+
+@media screen and (min-width: 1024px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none !important;
+  }
+}
