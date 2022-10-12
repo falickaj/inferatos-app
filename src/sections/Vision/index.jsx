@@ -17,8 +17,7 @@ export default function Vision() {
           Vision
         </h1>
         <h4 className="text-lg leading-8 text-center md:text-left md:text-xl mt-7 md:mb-8 lg:pr-10">
-Since the world is moving towards a more monitored daily life. We want to be the voice for the people. Our vision as an IT development company is to use our technology to protect our user’s privacy through Cryptonimity.
-As humans our vision and desire is to change the world to a better place by this, we are donating 25% of NFT proceeds to charitable organizations or projects in harmony with the vision of Inferatos.
+        The world is rapidly moving towards a more monitored day-to-day life and therefore we aim to be the voice of the people. Our vision as a Tech-development company is to create technologic solutions that protects our user’s privacy and identity through our new concept of Cryptonimity. Our company’s passion and motivation comes from our desire to change the world for the better and we want to do that by donating 25% of NFT net-proceeds to charitable organizations or projects harmonizing with the vision of the Inferatos.
         </h4>
         <h3 className="hidden md:flex">Be the Change.</h3>
       </div>
