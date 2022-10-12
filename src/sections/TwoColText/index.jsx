@@ -33,11 +33,12 @@ export default function TwoColText() {
           viewport={{ once: true }}
           className="mt-8 text-lg leading-8 text-center md:text-left max-w-3xl mx-auto md:text-xl"
         >
-Like covering your face with a mask, our NFT&#39;s will in the future give our holders the ability to cover
-online tracks, allowing them to move through the internet with a masked identity. That&#39;s why we
-are currently in development of building an all new NFT function with blockchain technology,
-allowing our NFT holders to explore and travel the metaverse while enjoying very own protected
-identity. Net proceeds will go to further the development and improvement of Cryptonymity.
+Developing a redefined encrypted identity connected to your totally unique NFT
+mask, Cryptonymity allows you to create your own technological legacy through your
+new identity in our Metaverse and community of technological pioneers. Being
+developed on the highest quality of blockchain technology, with many future functions
+to come, this art piece will appreciate the older and more experienced it gets.
+Embrace your new identity, embrace Cryptonymity.
         </motion.h4>
       </div>
       <div className="w-full mt-16 md:mt-0 md:w-6/12 md:pl-6">
@@ -55,7 +56,7 @@ identity. Net proceeds will go to further the development and improvement of Cry
           viewport={{ once: true }}
           className="text-center md:text-left text-4xl font-medium md:font-bold md:text-[50px]"
         >
-          The 50 sacred
+          The Round Table
         </motion.h2>
         <motion.h4
           initial={{ opacity: 0, y: -10 }}
@@ -71,11 +72,11 @@ identity. Net proceeds will go to further the development and improvement of Cry
           viewport={{ once: true }}
           className="mt-8 text-lg leading-8 text-center md:text-left max-w-3xl mx-auto md:text-xl"
         >
-The holders of the first 50, those called infinitum, will forever be viewed as sacred to the project with
-perks giving them a definite place in the future of the Inferatos. Early access, pre-ICO coin giftings, all
-future NFT-upgrades, VIP giveaways and a seat at the round table are only some of the perks the 50
-sacred will enjoy, with these rights permanently connected to the mask whomever its holder might
-be.
+The holders of the 50 first NFT's ever created by Inferatos will permanently have a
+seat at the round table, where they will join in the development of the brand,
+products, and general direction of the project. In addition, perks such as early-
+access, pre-ICO giftings, giveaways and all future NFT-upgrades will also be given to
+the 50 first.
         </motion.h4>
       </div>
     </div>

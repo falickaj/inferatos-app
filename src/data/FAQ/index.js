@@ -2,7 +2,7 @@ export const FAQData = [
   {
     question: "What is the overall goal of the project?",
     answer:
-      "The main goal of the Inferatos project is to contribute to a freer and more positive world. We want to create a great community and connect bright minds. We focus on making the world a better place through our charities and by making a platform for positive global change.",
+      "The main goal of the project is to provide our clients and community with a sustainable growth and asset appreciation, through continuous development of our products and services, all while focusing on our commitment to positive change in the metaverse and the universe.",
   },
   {
     question: "What do I get as a holder of the NFT?",
@@ -12,7 +12,7 @@ export const FAQData = [
   {
     question: "How do you ensure profits for the holders?",
     answer:
-      "We are firmly set on ensuring profits for the holders through continuous efforts by the entire team. We will connect all participation to the project with the different revenue streams, while focusing on scaling all parts of the project and developing functionalities for all products. Keeping a limited supply against a high demand and always improving products, brand, and services, we will ensure that all NFT's are considered as assets.",
+      "We are firmly set on ensuring profits for the holders through continuous efforts by the entire team and our huge coomitment to branding and brand building. We will connect all activities of the project to different revenue streams, while focusing on scaling all parts of the project and developing function and functionalities for all products and services. By keeping a limited supply against a high demand and always improving products, brand, and services, we will ensure that all NFT's are considered STRONG assets.",
   },
   {
     question: "Why should I join the community?",
@@ -41,6 +41,6 @@ export const FAQData = [
   },
   {
     question: "How do I know the project is legit?",
-    answer: "Trust me bro",
+    answer: "All donations, tracking and news regarding this will be shared continuously in the community, so stay tuned.",
   },
 ];
