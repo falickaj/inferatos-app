@@ -22,7 +22,7 @@ export const FAQData = [
   {
     question: "What is Cryptonymity?",
     answer:
-      '"Cryptonymity" is a new crypto concept/function created by non-other than Inferatos that gives each NFT holder the ability to experience encrypted identity, or technological anonymity if you will. This is our focus for the NFT\'s because we think individual privacy is a birth given right, especially in this new era of technology. ',
+      'Developing a redefined encrypted identity connected to your totally unique NFT mask, Cryptonymity allows you to create your own technological legacy through your new identity in our Metaverse and community of technological pioneers. Being developed on the highest quality of blockchain technology, with many future functions to come, this art piece will appreciate the older and more experienced it gets. Embrace your new identity, embrace Cryptonymity.',
   },
   {
     question: "Where can I buy your NFTs?",
