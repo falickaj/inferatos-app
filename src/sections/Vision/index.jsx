@@ -27,7 +27,7 @@ As humans our vision and desire is to change the world to a better place by this
         <div className="aspect-video bg-gray rounded-md md:rounded-[60px] border-8 border-white overflow-hidden relative">
           {isPlaying ? (
             <YouTube
-              video="lDu6SQjiZ-I"
+              video="784RIviMJ9k"
               width="100%"
               height="100%"
               autoplay
