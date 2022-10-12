@@ -31,8 +31,8 @@ export default function Privacy() {
             viewport={{ once: true }}
             className="max-w-3xl"
           >
-            Inferatos NFT`&apos;`s are a collection of digital artworks
-            (NFT`&apos;`s) running on the Polygon network. This website is only
+            Inferatos NFT`s are a collection of digital artworks
+            (NFT`s) running on the Polygon network. This website is only
             an interface allowing participants to exchange digital collectibles.
             Users are entirely responsible for the safety and management of
             their own private wallets and validating all transactions and
@@ -43,7 +43,7 @@ export default function Privacy() {
             This website and its connected services are provided “as is” and “as
             available” without warranty of any kind. By using this website you
             are accepting sole responsibility for any and all transactions
-            involving Inferatos`&apos;` digital collectibles.
+            involving Inferatos digital collectibles.
           </motion.h4>
           <h2>Ownership</h2>
           <motion.h4
@@ -73,12 +73,12 @@ export default function Privacy() {
             non-commercial use; (ii) as part of a marketplace that permits the
             purchase and sale of your Inferatos Mask / NFT, provided that the
             marketplace cryptographically verifies each Inferatos Mask
-            owner`&apos;`s rights to display the Art for their Inferatos Mask to
+            owner`s rights to display the Art for their Inferatos Mask to
             ensure that only the actual owner can display the Art; or (iii) as
             part of a third party website or application that permits the
             inclusion, involvement, or participation of your Inferatos Mask,
             provided that the website/application cryptographically verifies
-            each Inferatos Mask owner`&apos;`s rights to display the Art for
+            each Inferatos Mask owner`s rights to display the Art for
             their Inferatos Mask to ensure that only the actual owner can
             display the Art, and provided that the Art is no longer visible once
             the owner of the Inferatos Mask leaves the website/application. iii.
@@ -92,12 +92,12 @@ export default function Privacy() {
             to restrict you from (i) owning or operating a marketplace that
             permits the use and sale of Inferatos Masks generally, provided that
             the marketplace cryptographically verifies each Inferatos Mask
-            owner`&apos;`s rights to display the Art for their Inferatos Mask to
+            owner`s rights to display the Art for their Inferatos Mask to
             ensure that only the actual owner can display the Art; (ii) owning
             or operating a third party website or application that permits the
             inclusion, involvement, or participation of Inferatos Mask
             generally, provided that the third party website or application
-            cryptographically verifies each Inferatos Mask owner`&apos;`s rights
+            cryptographically verifies each Inferatos Mask owner`s rights
             to display the Art for their Inferatos Mask to ensure that only the
             actual owner can display the Art, and provided that the Art is no
             longer visible once the owner of the purchased Inferatos Mask leaves

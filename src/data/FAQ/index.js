@@ -12,7 +12,7 @@ export const FAQData = [
   {
     question: "How do you ensure profits for the holders?",
     answer:
-      "We are firmly set on ensuring profits for the holders through continuous efforts by the entire team and our huge coomitment to branding and brand building. We will connect all activities of the project to different revenue streams, while focusing on scaling all parts of the project and developing function and functionalities for all products and services. By keeping a limited supply against a high demand and always improving products, brand, and services, we will ensure that all NFT's are considered STRONG assets.",
+      "We are firmly set on ensuring profits for the holders through continuous efforts by the entire team and our huge commitment to branding and brand building. We will connect all activities of the project to different revenue streams, while focusing on scaling all parts of the project and developing function and functionalities for all products and services. By keeping a limited supply against a high demand and always improving products, brand, and services, we will ensure that all NFT's are considered STRONG assets.",
   },
   {
     question: "Why should I join the community?",

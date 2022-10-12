@@ -69,7 +69,7 @@ export default function Countdown() {
         <h2 className="text-sm font-normal md:font-bold md:text-3xl">
           04 November 2022
         </h2>
-        <Link href="https://discord.gg/HErYueTJ">
+        <Link href="https://discord.gg/UAVuM68TZm">
           <a target="_blank" className="flex gap-4 md:gap-10 items-center">
             <span className="w-8 h-[2px] md:w-20 md:h-1 bg-white rounded-full"></span>
             <h3 className="text-sm font-normal md:font-bold md:text-3xl">
