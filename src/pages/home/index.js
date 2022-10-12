@@ -135,7 +135,7 @@ export default function Home() {
                 <div className="mt-10 mb-8 md:flex justify-between hidden ">
                   <div className="hidden md:block">
                     <h2>Ludex</h2>
-                    <h4>Inferatos #12345</h4>
+                    <h4>Inferatos </h4>
                   </div>
                   <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>
@@ -154,7 +154,7 @@ export default function Home() {
                 <div className="mt-10 mb-8 md:flex justify-between hidden ">
                   <div className="hidden md:block">
                     <h2>Inimicus</h2>
-                    <h4>Inferatos #12345</h4>
+                    <h4>Inferatos </h4>
                   </div>
                   <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>
@@ -173,7 +173,7 @@ export default function Home() {
                 <div className="mt-10 mb-8 md:flex hidden justify-between">
                   <div className="hidden md:block">
                     <h2>Diminus</h2>
-                    <h4>Inferatos #12345</h4>
+                    <h4>Inferatos </h4>
                   </div>
                   <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>

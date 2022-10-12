@@ -65,7 +65,7 @@ export default function NFTSlideshowCube() {
             >
               <div>
                 <h2>Ludex</h2>
-                <h4>Inferatos #12345</h4>
+                <h4>Inferatos </h4>
               </div>
               <h3>0.0 ETH</h3>
             </motion.div>
@@ -105,7 +105,7 @@ export default function NFTSlideshowCube() {
             >
               <div>
                 <h2>Diminus</h2>
-                <h4>Inferatos #12345</h4>
+                <h4>Inferatos </h4>
               </div>
               <h3>0.0 ETH</h3>
             </motion.div>

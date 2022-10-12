@@ -36,7 +36,7 @@ export default function CommunityBanner() {
         <Button
           primary
           filled
-          text="Connect"
+          text="Join Discord"
           href="https://discord.gg/HErYueTJ"
         />
       </motion.div>

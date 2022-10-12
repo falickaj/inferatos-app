@@ -86,7 +86,7 @@ export default function Header() {
           <Button
             primary
             filled
-            text="Connect"
+            text="Join Discord"
             href="https://discord.gg/UAVuM68TZm"
           />
         </div>

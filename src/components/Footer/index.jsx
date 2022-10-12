@@ -18,7 +18,7 @@ export default function Footer() {
           </h4>
           <Link href="mailto:admin@inferatos.com" passHref>
             <a className="border-b border-white inline-block">
-              <h4>admin@inferatos.com</h4>
+              <h4>contact@inferatos.com</h4>
             </a>
           </Link>
         </div>

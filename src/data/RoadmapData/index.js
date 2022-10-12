@@ -28,13 +28,7 @@ export const RoadmapData = [
     icon: giveaway,
     done: false,
   },
-  {
-    title: "Giveaway",
-    description:
-      "When the Infitum collection is sold out. We want to show that we care for and appreciate our community, and in doing so we firmly believe that it is important to give back. Therefore, we are giving away a prize worth $10.000 to one lucky member of the Inferatos community.",
-    icon: giveaway,
-    done: false,
-  },
+
   {
     title: "Inception NFT Launch",
     description:
@@ -53,13 +47,6 @@ export const RoadmapData = [
     title: "Charity Donation",
     description:
       "As a celebration of the second successful Inferatos launch, we wish to give back once again to thank everyone making this possible. In this respect we are donating 25% of NFT proceeds to a charitable organization or project in harmony with the vision of the Inferatos project. Check the community for more info on what charity. ",
-    icon: giveaway,
-    done: false,
-  },
-  {
-    title: "Giveaways",
-    description:
-      "After the 2nd launch, we will host another giveaway for all community members. Prices will vary from cash, NFT`s and cars, to investments in startup projects our team believes in. We owe our whole journey to the community, therefore we want to give back!",
     icon: giveaway,
     done: false,
   },
