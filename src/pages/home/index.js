@@ -88,7 +88,7 @@ export default function Home() {
             viewport={{ once: true }}
             className="mb-16 mt-7"
           >
-            The first NFT to provide cryptonymity to all metaverse travellers -
+            Pioneering Metaverse identity development -
             Get your identity now
           </motion.p>
           <motion.div
