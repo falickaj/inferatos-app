@@ -92,11 +92,4 @@ export const RoadmapData = [
     icon: launch,
     done: false,
   },
-  // {
-  //   title: "Inferatos Attire",
-  //   description:
-  //     "We are excited to introduce a custom brand clothing line, where we give the community a chance to get in on unique and limited-edition clothing collections. This is not standard merch, but rather a clothing line of high-end and high-quality stature. We focus on fashion combined with new generation attributes, which will aim to shake up the traditional clothing industry.",
-  //   icon: checkroom,
-  //   done: false,
-  // },
 ];
