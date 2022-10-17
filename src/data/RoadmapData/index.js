@@ -65,10 +65,10 @@ export const RoadmapData = [
     done: false,
   },
   {
-    title: "Cryptocurrency Launch",
+    title: "Events",
     description:
-      "The creation of the InCash coin will be essential for our vision. This is based on the fact that it will be the only currency that will be accepted for our clothing line, future NFT's and more exciting projects to come. By this creating a liable currency and bringing value to our members.",
-    icon: launch,
+      'After the Ultimo launch there will be held an event where we once again make an even bigger donation to a charity. In addition to this, we want to host continuous events for our NFT-holders. This is to give back to the community, and to grow stronger. This will include worldwide events with different purposes and of different scales. The events can vary from huge festive events to smaller networking programs.',
+    icon: event,
     done: false,
   },
   {
@@ -86,10 +86,10 @@ export const RoadmapData = [
     done: false,
   },
   {
-    title: "Events",
+    title: "Cryptocurrency Launch",
     description:
-      'After the Ultimo launch there will be held an event where we once again make an even bigger donation to a charity. In addition to this, we want to host continuous events for our NFT-holders. This is to give back to the community, and to grow stronger. This will include worldwide events with different purposes and of different scales. The events can vary from huge festive events to smaller networking programs.',
-    icon: event,
+      "The creation of the InCash coin will be essential for our vision. This is based on the fact that it will be the only currency that will be accepted for our clothing line, future NFT's and more exciting projects to come. By this creating a liable currency and bringing value to our members.",
+    icon: launch,
     done: false,
   },
   // {
