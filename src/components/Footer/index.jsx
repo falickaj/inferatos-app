@@ -16,7 +16,7 @@ export default function Footer() {
             <br />
             Norway
           </h4>
-          <Link href="mailto:admin@inferatos.com" passHref>
+          <Link href="mailto:contact@inferatos.com" passHref>
             <a className="border-b border-white inline-block">
               <h4>contact@inferatos.com</h4>
             </a>
@@ -78,7 +78,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="https://discord.gg/HErYueTJ">
+                <Link href="https://discord.gg/UAVuM68TZm">
                   <a target="_blank">
                     <h4>Discord</h4>
                   </a>
@@ -107,7 +107,7 @@ export default function Footer() {
         <h4>INFERATOS 2022 © All rights reserved</h4>
         <ul className="flex gap-8 ">
           <li>
-            <Link href="/">
+            <Link href="/privacy">
               <a className="border-b border-white inline-block">
                 <h4>Terms of Use</h4>
               </a>
