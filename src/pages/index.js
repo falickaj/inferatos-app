@@ -6,6 +6,7 @@ export default function MainPage() {
     <>
       <Head>
         <title>Inferatos | Homepage</title>
+        <meta name="description" content="Pioneering Metaverse identity development - Get your identity now">
       </Head>
       <Home />
     </>
