@@ -5,7 +5,7 @@ export default function MainPage() {
   return (
     <>
       <Head>
-        <title>Inferatos | Homepage</title>
+        <title>Inferatos</title>
         
       </Head>
       <Home />
