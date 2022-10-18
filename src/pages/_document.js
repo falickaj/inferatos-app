@@ -5,6 +5,7 @@ export default function Document() {
     <Html>
       <Head>
       <meta name="description" content="Dicover the Cyptonymity Masks" />
+      <meta name="google-site-verification" content="nJDLtCB-L8GvZxyd1dihaqCCNm_1I2OQJWDZl8tFKcU"/>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
