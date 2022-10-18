@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
+      <meta name="description" content="Dicover the Cyptonymity Masks" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
