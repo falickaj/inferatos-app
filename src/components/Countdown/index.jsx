@@ -3,7 +3,7 @@ import Link from "next/link";
 import useCountDown from "../../hooks/useCountDown";
 
 export default function Countdown() {
-  const [days, hours, minutes, seconds] = useCountDown("2022-11-04T01:02:03");
+  const [days, hours, minutes, seconds] = useCountDown("2022-11-10T01:02:03");
   return (
     <div className="container mx-auto px-6">
       <div className="flex items-center flex-row gap-12 text-center md:flex-row justify-between">
@@ -67,7 +67,7 @@ export default function Countdown() {
       {/* Date */}
       <div className="flex tems-center flex-row justify-between">
         <h2 className="text-sm font-normal md:font-bold md:text-3xl">
-          04 November 2022
+          10 November 2022
         </h2>
         <Link href="https://discord.gg/UAVuM68TZm">
           <a target="_blank" className="flex gap-4 md:gap-10 items-center">
