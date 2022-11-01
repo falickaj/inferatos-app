@@ -73,7 +73,7 @@ aligned with our values.
       </div>
       {/* Lets fight mobile only */}
       <h3 className="flex md:hidden text-center">
-        Let us fight for a new world!
+          Be the Change.
       </h3>
     </div>
   );

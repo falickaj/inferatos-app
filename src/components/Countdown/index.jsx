@@ -3,7 +3,7 @@ import Link from "next/link";
 import useCountDown from "../../hooks/useCountDown";
 
 export default function Countdown() {
-  const [days, hours, minutes, seconds] = useCountDown("2022-11-10T01:02:03");
+  const [days, hours, minutes, seconds] = useCountDown("2022-11-11T01:02:03");
   return (
     <div className="container mx-auto px-6">
       <div className="flex items-center flex-row gap-12 text-center md:flex-row justify-between">

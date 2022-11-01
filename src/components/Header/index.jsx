@@ -160,7 +160,7 @@ export default function Header() {
               }}
               className="bg-primary text-center py-5 rounded-lg"
             >
-              <Link href="/contact">
+              <Link href="https://discord.gg/UAVuM68TZm">
                 <a>
                   <h4 className="text-3xl md:text-4xl">Connect</h4>
                 </a>
