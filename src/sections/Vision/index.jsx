@@ -29,6 +29,9 @@ aligned with our values.
         <h3 className="hidden md:flex">Be the Change.</h3>
       </div>
       {/* Right Side */}
+        <h3 className="flex md:hidden text-center">
+            Be the Change.
+        </h3>
       <div className="w-full lg:w-6/12">
         <div className="aspect-video bg-gray rounded-md md:rounded-[60px] border-8 border-white overflow-hidden relative">
           {isPlaying ? (
@@ -73,9 +76,7 @@ aligned with our values.
         </div>
       </div>
       {/* Lets fight mobile only */}
-      <h3 className="flex md:hidden text-center">
-          Be the Change.
-      </h3>
+
     </div>
   );
 }
