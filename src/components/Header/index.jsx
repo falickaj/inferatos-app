@@ -162,7 +162,7 @@ export default function Header() {
             >
               <Link href="https://discord.gg/UAVuM68TZm">
                 <a>
-                  <h4 className="text-3xl md:text-4xl">Connect</h4>
+                  <h4 className="text-3xl md:text-4xl">Join Discord</h4>
                 </a>
               </Link>
             </motion.li>
