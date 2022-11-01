@@ -10,7 +10,10 @@ export const RoadmapData = [
   {
     title: "Launch of the Inferatos",
     description:
-      "To celebrate launching our discord server. We want to give back to our supporters by drawing one lucky winner of a unique Inferatos NFT mask from the Infinitum collection when the server has reached 1000 members. Will you claim the prize?",
+      "To celebrate the birth of our community we want to give back to our supporters by drawing ONE\n" +
+        "lucky winner of an Inferatos NFT mask from the Infinitum collection. This will happen when we reach\n" +
+        "500 members on our discord server. The NFT winner will be given a seat at the Round Table. Will you\n" +
+        "be the one to claim the prize?",
     icon: launch,
     done: true,
   },

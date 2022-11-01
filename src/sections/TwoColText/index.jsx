@@ -34,11 +34,11 @@ export default function TwoColText() {
           className="mt-8 text-lg leading-8 text-center md:text-left max-w-3xl mx-auto md:text-xl"
         >
             Developing a redefined encrypted identity connected to your totally unique NFT mask. The masks
-            are made with ERC – 721 Smart contracts on the Polygon blockchain.
+            are made with ERC – 721 Smart contracts on the Polygon blockchain.<br/><br/>
             Cryptonymity allows you to create your own technological legacy through your new identity in our
-            Metaverse and community of technological pioneers.
+            Metaverse and community of technological pioneers.<br/><br/>
             Being developed on the highest quality of blockchain technology, with many future functions to
-            come, this art piece will appreciate the older and more experienced it gets.
+            come, this art piece will appreciate the older and more experienced it gets.<br/><br/>
             Embrace your new identity, embrace Cryptonymity.
         </motion.h4>
       </div>
@@ -73,9 +73,9 @@ export default function TwoColText() {
           viewport={{ once: true }}
           className="mt-8 text-lg leading-8 text-center md:text-left max-w-3xl mx-auto md:text-xl"
         >
-            The holders of the 50 first NFT&#39;s ever created by Inferatos will permanently have a seat at the round
+            The holders of the 50 first NFT's ever created by Inferatos will permanently have a seat at the round
             table, where they will join in the development of the brand, products, and general direction of the
-            project.
+            project.<br/><br/>
             In addition, perks such as early- access, pre-ICO giftings, giveaways and all future NFT-upgrades will
             also be given to the 50 first.
         </motion.h4>
