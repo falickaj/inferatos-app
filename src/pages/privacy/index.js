@@ -61,8 +61,8 @@ export default function Privacy() {
             className="max-w-3xl"
           >
             i. You own the NFT. Inferatos is an NFT on the Polygon blockchain.
-            When you purchase an NFT, you own the underlying Inferatos Mask, the
-            smartcontract, the “Art”, completely.<br/><br/> Ownership of the NFT is
+            When you purchase an NFT, you own the underlying Inferatos Mask,
+            the “Art”, completely.<br/><br/> Ownership of the NFT is
             mediated entirely by the Smart Contract and the Polygon Network: at
             no point may we seize, freeze, or otherwise modify the ownership of
             any Inferatos NFT. ii. Personal Use. <br/><br/>Subject to your continued
