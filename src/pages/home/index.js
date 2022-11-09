@@ -104,7 +104,7 @@ export default function Home() {
             }}
             viewport={{ once: true }}
           >
-            <Button primary filled text="Buy now" href="/" />
+            <Button primary filled text="Mint now" href="https://mint.inferatos.com/" />
           </motion.div>
         </div>
         {/* NFT Card here */}
