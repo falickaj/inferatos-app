@@ -21,7 +21,7 @@ export default function Countdown() {
           viewport={{ once: true }}
           className="uppercase text-3xl md:text-7xl"
         >
-          Launching in
+          Launched
         </motion.h2>
         <motion.div
           initial={{ opacity: 0 }}
@@ -41,25 +41,25 @@ export default function Countdown() {
       <div className="flex flex-row items-center md:gap-10 mt-12 mb-14 md:mb-36 justify-between md:flex-row lg:flex-nowrap">
         <div className="flex flex-col lg:w-3/12">
           <span className="text-[48px] md:text-[150px] leading-none">
-            {days}
+            "0"
           </span>
           <h2 className="text-base md:text-4xl">Days</h2>
         </div>
         <div className="flex flex-col lg:w-3/12 lg:items-center">
           <span className="text-[48px] md:text-[150px] leading-none">
-            {hours}
+            "0"
           </span>
           <h2 className="text-base md:text-4xl">Hours</h2>
         </div>
         <div className="flex flex-col lg:w-3/12 lg:items-center">
           <span className="text-[48px] md:text-[150px] leading-none">
-            {minutes}
+            "0"
           </span>
           <h2 className="text-base md:text-4xl">Minutes</h2>
         </div>
         <div className="flex flex-col lg:w-3/12 lg:items-end">
           <span className="text-[48px] md:text-[150px] leading-none">
-            {seconds}
+            "0"
           </span>
           <h2 className="text-base md:text-4xl">Seconds</h2>
         </div>
