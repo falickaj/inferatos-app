@@ -39,7 +39,7 @@ export default function Countdown() {
       </div>
       {/* Timer */}
       <div className="flex flex-row items-center md:gap-10 mt-12 mb-14 md:mb-36 justify-between md:flex-row lg:flex-nowrap">
-        <div className="flex flex-col lg:w-3/12">
+        {/* <div className="flex flex-col lg:w-3/12">
           <span className="text-[48px] md:text-[150px] leading-none">
             0
           </span>
@@ -62,7 +62,7 @@ export default function Countdown() {
             0
           </span>
           <h2 className="text-base md:text-4xl">Seconds</h2>
-        </div>
+        </div> */}
       </div>
       {/* Date */}
       <div className="flex tems-center flex-row justify-between">
