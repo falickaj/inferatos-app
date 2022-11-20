@@ -137,7 +137,6 @@ export default function Home() {
                     <h2>Ludex</h2>
                     <h4>Inferatos </h4>
                   </div>
-                  <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>
               </div>
             </SwiperSlide>
@@ -156,7 +155,6 @@ export default function Home() {
                     <h2>Inimicus</h2>
                     <h4>Inferatos </h4>
                   </div>
-                  <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>
               </div>
             </SwiperSlide>
@@ -175,7 +173,6 @@ export default function Home() {
                     <h2>Diminus</h2>
                     <h4>Inferatos </h4>
                   </div>
-                  <h3 className="hidden md:block">1.5 ETH</h3>
                 </div>
               </div>
             </SwiperSlide>
@@ -254,8 +251,6 @@ export default function Home() {
                   <div className="mt-2 mb-16 nftValue">
                     <h3>{nft.name}</h3>
                     <div className="flex justify-between">
-                      <h4>Value</h4>
-                      <h4>{nft.bid} ETH</h4>
                     </div>
                   </div>
                 </div>

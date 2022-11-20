@@ -81,8 +81,6 @@ export default function Collection({ nftsList, page, numberOfNfts }) {
                   {nft.name}
                 </h3>
                 <div className="flex justify-center md:justify-between value">
-                  <h4 className="hidden md:flex">Value</h4>
-                  <h4 className="text-base md:text-xl">{nft.bid} ETH</h4>
                 </div>
               </div>
             </div>
