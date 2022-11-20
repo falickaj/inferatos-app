@@ -51,37 +51,37 @@ import NFTFortyNine from "../../assets/nftDesigns/49.png";
 export const homeNFTs = [
   {
     name: "Venenatus",
-    bid: "1.5",
+    
     image: NFTForty,
   },
   {
     name: "Vulcan",
-    bid: "1.5",
+    
     image: NFTNine,
   },
   {
     name: "Tropical",
-    bid: "1.5",
+    
     image: NFTThirtyNine,
   },
   {
     name: "Domina",
-    bid: "1.5",
+    
     image: NFTSix,
   },
   {
     name: "Maestro",
-    bid: "1.5",
+    
     image: NFTThirtyFour,
   },
   {
     name: "Jupiter",
-    bid: "1.5",
+    
     image: NFTThirteen,
   },
   {
     name: "Venenatus",
-    bid: "1.5",
+    
     image: NFTForty,
   },
 ];

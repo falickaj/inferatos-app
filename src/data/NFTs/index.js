@@ -51,247 +51,247 @@ import NFTFortyNine from "../../assets/nftDesigns/49.png";
 export const nftDesigns = [
   {
     name: "Eques",
-    bid: "1.5",
+    
     image: NFTOne,
   },
   {
     name: "Regium",
-    bid: "1.5",
+    
     image: NFTTwentySix,
   },
   {
     name: "Hospitis",
-    bid: "1.5",
+    
     image: NFTTwo,
   },
   {
     name: "Deliciae",
-    bid: "1.5",
+    
     image: NFTTwentySeven,
   },
   {
     name: "Alchemist",
-    bid: "1.5",
+    
     image: NFTThree,
   },
   {
     name: "Pudicitia",
-    bid: "1.5",
+    
     image: NFTTwentyEight,
   },
   {
     name: "Dulcis",
-    bid: "1.5",
+    
     image: NFTFour,
   },
   {
     name: "Divitiae",
-    bid: "1.5",
+    
     image: NFTTwentyNine,
   },
   {
     name: "Femina",
-    bid: "1.5",
+    
     image: NFTFive,
   },
   {
     name: "Contraria",
-    bid: "1.5",
+    
     image: NFTThirty,
   },
   {
     name: "Domina",
-    bid: "1.5",
+    
     image: NFTSix,
   },
   {
     name: "Intus",
-    bid: "1.5",
+    
     image: NFTThirtyOne,
   },
   {
     name: "Flos",
-    bid: "1.5",
+    
     image: NFTSeven,
   },
   {
     name: "Crystallo",
-    bid: "1.5",
+    
     image: NFTThirtyTwo,
   },
   {
     name: "Sartor",
-    bid: "1.5",
+    
     image: NFTEight,
   },
   {
     name: "Pollinis",
-    bid: "1.5",
+    
     image: NFTThirtyThree,
   },
   {
     name: "Vulcan",
-    bid: "1.5",
+    
     image: NFTNine,
   },
   {
     name: "Maestro",
-    bid: "1.5",
+    
     image: NFTThirtyFour,
   },
   {
     name: "Venus",
-    bid: "1.5",
+    
     image: NFTTen,
   },
   {
     name: "Papilio",
-    bid: "1.5",
+    
     image: NFTThirtyFive,
   },
   {
     name: "Titan",
-    bid: "1.5",
+    
     image: NFTEleven,
   },
   {
     name: "Obduratus",
-    bid: "1.5",
+    
     image: NFTThirtySix,
   },
   {
     name: "Diminus",
-    bid: "1.5",
+    
     image: NFTTwelve,
   },
   {
     name: "Tributum",
-    bid: "1.5",
+    
     image: NFTThirtySeven,
   },
   {
     name: "Jupiter",
-    bid: "1.5",
+    
     image: NFTThirteen,
   },
   {
     name: "Rimas",
-    bid: "1.5",
+    
     image: NFTThirtyEight,
   },
   {
     name: "Diliria",
-    bid: "1.5",
+    
     image: NFTFourteen,
   },
   {
     name: "Tropical",
-    bid: "1.5",
+    
     image: NFTThirtyNine,
   },
   {
     name: "Solis",
-    bid: "1.5",
+    
     image: NFTFifteen,
   },
   {
     name: "Venenatus",
-    bid: "1.5",
+    
     image: NFTForty,
   },
   {
     name: "Tactus",
-    bid: "1.5",
+    
     image: NFTSixteen,
   },
   {
     name: "Antiquitas",
-    bid: "1.5",
+    
     image: NFTFortyOne,
   },
   {
     name: "Acidum",
-    bid: "1.5",
+    
     image: NFTSeventeen,
   },
   {
     name: "Fluctus",
-    bid: "1.5",
+    
     image: NFTFortyTwo,
   },
   {
     name: "Argenti",
-    bid: "1.5",
+    
     image: NFTEighteen,
   },
   {
     name: "Tenebris",
-    bid: "1.5",
+    
     image: NFTFortyThree,
   },
   {
     name: "Somnium",
-    bid: "1.5",
+    
     image: NFTNineteen,
   },
   {
     name: "Elementra",
-    bid: "1.5",
+    
     image: NFTFortyFour,
   },
   {
     name: "Ludex",
-    bid: "1.5",
+    
     image: NFTTwenty,
   },
   {
     name: "Abyssus",
-    bid: "1.5",
+    
     image: NFTFortyFive,
   },
   {
     name: "Mars",
-    bid: "1.5",
+    
     image: NFTTwentyOne,
   },
   {
     name: "Inimicus",
-    bid: "1.5",
+    
     image: NFTFortySix,
   },
   {
     name: "Excessus",
-    bid: "1.5",
+    
     image: NFTTwentyTwo,
   },
   {
     name: "Rostrum",
-    bid: "1.5",
+    
     image: NFTFortySeven,
   },
   {
     name: "Doctus",
-    bid: "1.5",
+    
     image: NFTTwentyThree,
   },
   {
     name: "Princepus",
-    bid: "1.5",
+    
     image: NFTFortyEight,
   },
   {
     name: "Lupus",
-    bid: "1.5",
+    
     image: NFTTwentyFour,
   },
   {
     name: "Bellator",
-    bid: "1.5",
+    
     image: NFTFortyNine,
   },
   {
     name: "Oculi",
-    bid: "1.5",
+    
     image: NFTTwentyFive,
   },
 ];
