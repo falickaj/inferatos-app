@@ -22,7 +22,7 @@ export const RoadmapData = [
     description:
       "We are launching Infinitum to kick off the NFT-journey. There will be a drop of 50 unique, hand- designed 3D-NFT's created by our young thriving team of artists. The collection is called “Infinitum”, due to the infinite perks these legendary masks hold. This will be a special opportunity to get your hands on the NFT’s ahead of the curve. Being the holder of one of the first NFT’s, these pieces of art will be given VIP-status, with all exclusive future perks.",
     icon: launch,
-    done: false,
+    done: true,
   },
   {
     title: "Charity Donation",
