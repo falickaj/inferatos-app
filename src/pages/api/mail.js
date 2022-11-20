@@ -14,7 +14,7 @@ export default (req, res) => {
     `;
 
   const data = {
-    to: "admin@inferatos.com",
+    to: "fitim@inferatos.com",
     from: "admin@inferatos.com",
     subject: "New message from Inferatos Contact Form",
     text: message,
