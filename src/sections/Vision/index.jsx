@@ -36,7 +36,7 @@ aligned with our values.
         <div className="aspect-video bg-gray rounded-md md:rounded-[60px] border-8 border-white overflow-hidden relative">
           {isPlaying ? (
             <YouTube
-              video="784RIviMJ9k"
+              video="06HFzJV5GZU"
               width="100%"
               height="100%"
               autoplay
